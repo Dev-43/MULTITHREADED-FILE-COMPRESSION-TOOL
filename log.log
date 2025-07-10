@@ -1,0 +1,13 @@
+[2025-07-10 21:42:52] Compression
+Extension   : txt
+Original    : 5320005 bytes
+Compressed  : 32531934 bits
+Ratio       : 0.76
+Reduction   : 23.56%
+Status      : Success
+------------------------------
+[2025-07-10 21:43:34] Decompression
+Extension   : txt
+Raw Bytes   : 5320020 bytes
+Status      : Success
+------------------------------
